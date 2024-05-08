@@ -1,0 +1,151 @@
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	vertical-align: baseline;
+    font-family: "Roboto", sans-serif;
+}
+/* header navbar and first photo */
+.navbar {
+    position: fixed;
+    height: 80px;
+    width: 100%;
+    background-color: #fff;
+    z-index: 2;
+}
+.navlinks {
+    text-decoration: none;
+    color: #636060;
+    font-size: 17px;
+    margin-left: 26px;
+}
+.navbarlinks {
+    width: 500px;
+    height: 50px;
+    margin-top: 29px;
+    margin-left: 900px;
+}
+.firstphoto {
+    width: 100%;
+    height: 680px;
+}
+.disc {
+    font-weight:700;
+    font-size: 79px;
+    color: #fff;
+    position: absolute;
+    margin-top: -401px;
+    left: 477px;
+    text-align: center;
+}
+.trav {
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 21.85px;
+    text-align: left;
+    color:#fff;
+    position: absolute;
+    left: 620px;
+    top: 384px;
+}
+.bu {
+    position: absolute;
+    Top: 15px;
+    left: 102px;;
+}
+/* section */
+.maindiv {
+    height: 800px;
+    width: 1516px;
+    position: absolute;
+}
+.firstdiv {
+    height: 672px;
+    width: 226px;
+    position: absolute;
+    top: 86px;
+    left: 80px;
+    text-align: start;
+}
+.sixsmalldivs {
+    height: 700px;
+    width: 1000px;
+    position: absolute;
+    right: 50px;
+    top: 86px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.divfirst {
+    height: 320px;
+    width: 273px;
+    background-color: #fff;
+}
+.divsec {
+    height: 320px;
+    width: 273px;
+    background-color: #fff;
+}
+.divthir {
+    height: 320px;
+    width: 273px;
+    background-color: #fff;
+}
+.divfour {
+    height: 320px;
+    width: 273px;
+    background-color: #fff;
+}
+.divfif {
+    height: 320px;
+    width: 273px;
+    background-color: #fff;
+}
+.divsix {
+    height: 320px;
+    width: 273px;
+    background-color: #fff;
+}
+.st {
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 19.55px;
+    text-align: left;
+    color: #636060;
+}
+.nd {
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 32.2px;
+    text-align: left;
+    color: #010101;
+    margin-top: 10px;
+}
+.rd {
+    font-family: Helvetica;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 23px;
+    text-align: left;
+    color: #636060;
+    margin-top: 25px;
+}
+.hed {
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 21.85px;
+    text-align: left;
+    color: #343232;
+    margin-top: 9px;
+}
+.txt {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 20.7px;
+    text-align: left;
+    color: #636060;
+    margin-top: 9px;
+}
+
